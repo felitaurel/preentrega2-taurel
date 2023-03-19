@@ -60,13 +60,19 @@
 .imagen-historia{
     height:400px;
     width:500px;
+
 }
 
 .row{
     justify-content: center;
     align-items: center;
+    margin: 50px;
+    background-color: #b6e2fa;
 }
+.texto-historia{
+    font-size:large;
 
+}
 
 
 
