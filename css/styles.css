@@ -37,6 +37,7 @@
 }
 .h1{
     text-align: center;
+    
 }
 
 
@@ -81,7 +82,9 @@
 }
 
 
-
+.pieDePagina{
+    font-size: 15px;
+}
 
 @media (max-width: 684px){
 
