@@ -51,9 +51,15 @@
 
 
 
+.form{
+    justify-content: center;
+    align-items: center;
+}
 
-
-
+.boton{
+    justify-content: center;
+    align-items: center;
+}
 
 
 
