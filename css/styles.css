@@ -62,7 +62,10 @@
     width:500px;
 }
 
-
+.row{
+    justify-content: center;
+    align-items: center;
+}
 
 
 
