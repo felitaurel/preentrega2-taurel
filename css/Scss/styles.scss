@@ -1,3 +1,6 @@
+$celeste-argentina: #84CAF0;
+$celeste-clarito: #b6e2fa;
+
 *{
     margin:0;
     padding:0;
@@ -8,8 +11,8 @@
 }
 .header{
     background-color: aqua;
-    background:#84CAF0;
-    color:#84CAF0;
+    background:$celeste-argentina;
+    color:$celeste-argentina;
     padding: 10px;
 }
 .navegacion{
@@ -43,7 +46,7 @@
 
 
 .footer{
-    background-color: #84CAF0;
+    background-color: $celeste-argentina;
     bottom: 0;
     position:fixed;
     width:100%;
@@ -74,14 +77,14 @@
     justify-content: center;
     align-items: center;
     margin: 50px;
-    background-color: #b6e2fa;    
+    background-color: $celeste-clarito;    
 }
 
 .row{
     justify-content: center;
     align-items: center;
     margin: 50px;
-    background-color: #b6e2fa;
+    background-color: $celeste-clarito;
 }
 .texto-historia{
     font-size:large;
