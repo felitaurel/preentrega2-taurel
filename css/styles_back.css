@@ -70,6 +70,13 @@
 
 }
 
+.column{
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    background-color: #b6e2fa;    
+}
+
 .row{
     justify-content: center;
     align-items: center;
