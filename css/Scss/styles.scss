@@ -48,7 +48,9 @@ $celeste-clarito: #b6e2fa;
 .footer{
     background-color: $celeste-argentina;
     bottom: 0;
-    position:fixed;
+    margin-top: auto;
+    position:static;
+    padding-bottom: 0;
     width:100%;
     height: 10%;
 }
